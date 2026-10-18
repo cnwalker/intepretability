@@ -1,2 +1,2 @@
 # intepretability
-But what is actually even happening?
+Projects in pursuit of understanding
